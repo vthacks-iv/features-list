@@ -12,16 +12,18 @@ Web App, iOS App and Android app
    API)
   * Once you register have a section to create a team or join a team.
 5. Help request system
-6. Resume database (only for sponsors to see) __Only for the web app?__ 
+6. Resume database (only for sponsors to see) __Only for the web app?__
 7. Chat system (low priority)
 
-  * Maybe we can have 4 and 5 as just one view.
+
+___Maybe we can have 4 and 5 as just one view.___
 
 
 API
 ---
 1. User
   * Have ability to POST, GET, PATCH, DELETE its own content
+
   1. Name
   2. School
   3. Age (?)
@@ -37,6 +39,7 @@ API
 
 3. Teams
   * Ability to POST, GET, PATCH, DELETE a team
+
   1. Up to 4 ppl per team
   2. Generate a team number which will be their table number as well.
   3. Request help per team.
